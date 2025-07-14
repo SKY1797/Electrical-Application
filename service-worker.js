@@ -1,4 +1,4 @@
-const CACHE_NAME = 'electrical-app-v2';
+const CACHE_NAME = 'electrical-app-v1';
 const urlsToCache = [
   '/',
   '/index.html',
