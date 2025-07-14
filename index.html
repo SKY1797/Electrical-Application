@@ -12,8 +12,7 @@
 
     <!-- iOS home screen icon -->
     <link rel="apple-touch-icon" href="apple-touch-icon.png">
-
-    <!-- Android manifest -->
+    
     <!-- <link rel="manifest" href="manifest.json"> -->
 
     <!-- Theme color (for Android status bar color) -->
@@ -115,5 +114,14 @@
 
     <script src="data.js"></script>
     <script src="script.js"></script>
+
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('/service-worker.js')
+        .then(reg => console.log('SW registered', reg))
+        .catch(err => console.error('SW failed', err));
+      }
+    </script>
+    
   </body>
 </html>
