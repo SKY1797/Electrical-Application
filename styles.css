@@ -121,7 +121,7 @@ body::before {
   width: 100%;
   /* background: var(--background); */
   /* padding: 0.75rem 1rem; */
-  padding: 0.75rem 1rem 0rem 1rem;
+  padding: 1rem 1rem 0rem 1rem;
   box-shadow: var(--shadow-medium);
   position: fixed;
   top: 0;
@@ -724,7 +724,7 @@ body::before {
   font-size: 0.875rem;
   color: #a1c5cc;
   /* color: var(--muted-foreground); */
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.9rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -794,7 +794,7 @@ body::before {
   }
 
   .main-container.no-header {
-    padding: 0.5rem;
+    padding: 0.75rem 0.5rem;
   }
 
   .card {
@@ -837,7 +837,7 @@ body::before {
   }
 
   .results-container {
-    height: calc(100vh - 18rem);
+    height: calc(100vh - 18.5rem);
     min-height: 20rem;
   }
 
