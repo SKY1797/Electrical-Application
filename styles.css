@@ -16,7 +16,7 @@
     var(--accent-secondary) 100%
   );
 
-  --primary-hover: linear-gradient(135deg, #94b2c4 0%, #5a8aaa 100%);
+  --primary-hover: linear-gradient(135deg, #afb3a5e1 0%, #87a3b3ef 100%);
   --primary-foreground: #153243;
   --secondary: linear-gradient(135deg, #eef0eb 0%, #b4b8ab 100%);
   --secondary-foreground: #153243;
