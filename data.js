@@ -2,6 +2,14 @@
 // This is a simplified version with representative data
 
 const unit1Data = [
+  ["", "Generator Excitation PAC 1", "AHU and ventilation MCC", "5.10R"],
+  ["", "Generator Excitation PAC 2", "AHU and ventilation MCC", "6.4F"],
+  ["", "Generator Excitation PAC 3", "AHU and ventilation MCC", "3.11R"],
+  ["", "Generator Excitation PAC 4", "AHU and ventilation MCC", "2.8F"],
+  ["", "TG NTPC Solapur Sign Board", "AHU and ventilation MCC", "6.9F"],
+  ["", "Aux CT-1", "DM plant switchgear", "6.8F"],
+  ["", "Aux CT-2", "DM plant switchgear", "12.10R"],
+  ["", "Aux CT-3", "CT switchgear 2B", "3.6R"],
   ["", "U-1 Clinker Grinder-2 (B1)", "BOTTOM ASH MCC", "1.10R/11KW/21.25A"],
   ["", "U-2 Clinker Grinder-1 (A1)", "BOTTOM ASH MCC", "1.9R/11KW/21.25A"],
   ["", "U-2 Clinker Grinder-2 (B1)", "BOTTOM ASH MCC", "1.12R/11KW/21.25A"],
@@ -5198,6 +5206,10 @@ const unit1Data = [
 
 
 const unit2Data = [
+  ["", "Generator Excitation PAC 1", "AHU and ventilation MCC", "2.4F"],
+  ["", "Generator Excitation PAC 2", "AHU and ventilation MCC", "5.13R"],
+  ["", "Generator Excitation PAC 3", "AHU and ventilation MCC", "1.15R"],
+  ["", "Generator Excitation PAC 4", "AHU and ventilation MCC", "5.6F"],
   ["20HAG10AA051","(SEPARATOR) Water Vessel Vent Valve 1-2","BVDC","8.5F / 32A"  ],
   ["","24V DC battery charger (TG) supply -1 set-1","UES","11.8F"  ],
   ["","24V DC battry charger (DCPS-UC-01) station C&I set-2 supply-2","UES","22.13F"  ],
