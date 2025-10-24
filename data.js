@@ -5201,7 +5201,7 @@ const unit1Data = [
   ["", "ESP AHU-11", "ESP AC MCC" ,"1.10F"],
   ["", "ESP AHU-11 Condensing unit", "U#2 ESP-2C" ,"4.9R"],
   ["", "ESP AHU-12", "ESP AC MCC" ,"3.10F"],
-  ["", "ESP AHU-12 Condensing unit", "U#2 ESP-2D" ,"7.13R"]
+  ["", "ESP AHU-12 Condensing unit", "U#2 ESP-2D" ,"1.8F"]
 ];
 
 
@@ -8079,7 +8079,7 @@ const unit2Data = [
   ["", "ESP AHU-11", "ESP AC MCC" ,"1.10F"],
   ["", "ESP AHU-11 Condensing unit", "U#2 ESP-2C" ,"4.9R"],
   ["", "ESP AHU-12", "ESP AC MCC" ,"3.10F"],
-  ["", "ESP AHU-12 Condensing unit", "U#2 ESP-2D" ,"7.13R"]
+  ["", "ESP AHU-12 Condensing unit", "U#2 ESP-2D" ,"1.8F"]
 ];
 
 const fgdData = [
