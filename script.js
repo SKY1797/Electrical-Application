@@ -2,7 +2,7 @@
 let selectedUnit = "unit1";
 let isSearching = false;
 
-// DOM elements
+// DOM element
 const unitSelectionPage = document.getElementById("unitSelectionPage");
 const searchPage = document.getElementById("searchPage");
 const appHeader = document.querySelector(".app-header");
